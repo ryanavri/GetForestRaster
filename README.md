@@ -3,7 +3,7 @@
 Get current forest raster from [Global Forest 
 Change](http://earthenginepartners.appspot.com/science-2013-global-forest) 
 dataset released by Hansen et al. 2013, and subsequent versions of that data. 
-The script was originally made by [azvoleff/gfcanalysis](https://github.com/azvoleff/gfcanalysis), with a modification to calculate forest loss per year in a specified area of interest.
+[The script] (https://github.com/ryanavri/GetForestRaster/blob/main/GetForestRaster.R) was originally made by [azvoleff/gfcanalysis](https://github.com/azvoleff/gfcanalysis), with a modification to calculate forest loss per year in a specified area of interest.
 
 ## References
 Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. 
