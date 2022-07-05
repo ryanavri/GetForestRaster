@@ -93,3 +93,4 @@ ggplot()+
 
 forest_area_km2 <- (sum(as.data.frame(forest_22$forest2000, na.rm=T))*769.26)/1000000
 forest_area_init <- (sum(as.data.frame(Forest$forest2000, na.rm=T))*769.26)/1000000
+total_loss <- forest_area_init - forest_area_km2
