@@ -1,15 +1,6 @@
 rm(list = ls()) # clear workspace
 
 #Preparation####
-# install packages
-install.packages(c('raster',
-                   'sp',
-                   'rgdal',
-                   'tidyverse',
-                   'ggplot2',
-                   'sf',
-                   'gfcanalysis'))
-
 # load packages
 library(raster)
 library(sp)
