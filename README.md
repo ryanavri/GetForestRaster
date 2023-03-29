@@ -1,9 +1,7 @@
 # GetForestRaster
 ## Overview
-Get current forest raster from [Global Forest 
-Change](http://earthenginepartners.appspot.com/science-2013-global-forest) 
-dataset released by Hansen et al. 2013, and subsequent versions of that data. 
-[The script](https://github.com/ryanavri/GetForestRaster/blob/main/GetForestRaster.R) was originally made by [azvoleff/gfcanalysis](https://github.com/azvoleff/gfcanalysis), with a modification to calculate forest loss per year in a specified area of interest.
+This repository is a modification of the [azvoleff/gfcanalysis](https://github.com/azvoleff/gfcanalysis) package and provides R scripts for acquiring the raster data of forest cover change from the [Global Forest 
+Change](http://earthenginepartners.appspot.com/science-2013-global-forest) dataset released by Hansen et al. 2013. The script can also be used to analyze deforestation and visualize annual loss of forest cover.
 
 ## References
 Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. 
